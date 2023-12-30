@@ -51,7 +51,7 @@ Clerk Account Setup:
 
 
 Ensure all keys are added within the .env.local file as shown below:
-{
+
     MONGODB_URL=<Your_key>
     UPLOADTHING_SECRET=<Your_key>
     UPLOADTHING_APP_ID=<Your_key>
@@ -65,4 +65,3 @@ Ensure all keys are added within the .env.local file as shown below:
     NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
 
     NEXT_CLERK_WEBHOOK_SECRET=<Your_key>
-}
