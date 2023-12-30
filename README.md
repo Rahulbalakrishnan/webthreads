@@ -1,22 +1,5 @@
 A social media web application like threads.
 
-![Alt text](<readme.assets/0 (1).png>)
-![Alt text](<readme.assets/0 (2).png>)
-![Alt text](<readme.assets/0 (3).png>)
-![Alt text](<readme.assets/0 (4).png>)
-![Alt text](<readme.assets/0 (5).png>)
-![Alt text](<readme.assets/0 (6).png>)
-![Alt text](<readme.assets/0 (7).png>)
-![Alt text](<readme.assets/0 (8).png>)
-![Alt text](<readme.assets/0 (9).png>)
-![Alt text](<readme.assets/0 (10).png>)
-![Alt text](<readme.assets/0 (11).png>)
-![Alt text](<readme.assets/0 (12).png>)
-![Alt text](<readme.assets/0 (13).png>)
-![Alt text](<readme.assets/0 (14).png>)
-
-Live at : https://webthreads.vercel.app
-
 Cloning Instructions:
 
     Clone the repository: git clone <HTTPS_URL> From the "<>Code" section at the top.
@@ -65,3 +48,20 @@ Ensure all keys are added within the .env.local file as shown below:
     NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
 
     NEXT_CLERK_WEBHOOK_SECRET=<Your_key>
+
+![Alt text](<readme.assets/0 (1).png>)
+![Alt text](<readme.assets/0 (2).png>)
+![Alt text](<readme.assets/0 (3).png>)
+![Alt text](<readme.assets/0 (4).png>)
+![Alt text](<readme.assets/0 (5).png>)
+![Alt text](<readme.assets/0 (6).png>)
+![Alt text](<readme.assets/0 (7).png>)
+![Alt text](<readme.assets/0 (8).png>)
+![Alt text](<readme.assets/0 (9).png>)
+![Alt text](<readme.assets/0 (10).png>)
+![Alt text](<readme.assets/0 (11).png>)
+![Alt text](<readme.assets/0 (12).png>)
+![Alt text](<readme.assets/0 (13).png>)
+![Alt text](<readme.assets/0 (14).png>)
+
+Live at : https://webthreads.vercel.app
