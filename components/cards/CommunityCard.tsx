@@ -11,6 +11,7 @@ interface Props {
   bio: string;
   members: {
     image: string;
+    
   }[];
 }
 

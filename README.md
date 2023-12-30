@@ -46,10 +46,9 @@ Ensure all keys are added within the .env.local file as shown below:
     NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
     NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
     NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-
     NEXT_CLERK_WEBHOOK_SECRET=<Your_key>
 
-![Alt text](<readme.assets/0 (1).png>)
+![Alt text](<readme.assets/0.png>)
 ![Alt text](<readme.assets/0 (2).png>)
 ![Alt text](<readme.assets/0 (3).png>)
 ![Alt text](<readme.assets/0 (4).png>)
