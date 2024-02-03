@@ -75,4 +75,6 @@ Ensure all keys are added within the .env.local file as shown below:
 ![Alt text](<readme.assets/0 (13).png>)
 ![Alt text](<readme.assets/0 (14).png>)
 
-Live at : https://webthreads.vercel.app
+
+The free version doesn't support the app launch, It returns  a serverless function timeout error. Need to update the Vercel account to pro to get back to host live.
+used to Live at: https://webthreads.vercel.app
